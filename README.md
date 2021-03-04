@@ -1,5 +1,6 @@
 # **Note about Kubernetes (CKAD)**
 
+**CKAD Exercises - https://github.com/dgkanatsios/CKAD-exercises**
 ### **Commons Kubernetes CLI**
 ```
 $ kubectl get pods
@@ -140,4 +141,9 @@ spec:
               key: DB_PASSWORD
 
 ```
+## **Security Context**
+
+## **Service Account**
+
+## **Taint and Tolerations**
 
